@@ -115,9 +115,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/KingVj01>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Djreme>☢VJ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/vj_bots>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Sai_File_Store_CC>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -190,7 +190,7 @@ Nᴀᴍᴇ - {}"""
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+ᴇxᴀᴍᴘʟᴇ : RRR or RRR 2022 or RRR En
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -241,16 +241,17 @@ Nᴀᴍᴇ - {}"""
 
 IMDb Data:
 
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ Languages : <code>{languages}</code>
-📀 RunTime: {runtime} Minutes
+<b>🏷 🧿Title</b>: <a href={url}>{title}</a>
+🎭 Genres : {genres}
+📆 Year : <a href={url}/releaseinfo>{year}</a>
+🌟 Rating : <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+🎙️ Languages : <code>{languages}</code>
+⏰ ᴅᴜʀᴀᴛɪᴏɴ : {runtime} Minutes
 📆 Release Info : {release_date}
 🎛 Countries : <code>{countries}</code>
+★ Designed By : @Sai_File_Store_CC
 
-
+💻 If U Have Any Doubts Contact To : @Priyassbot
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
 Requested by : {message.from_user.mention}</b>"""
@@ -334,6 +335,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
+┣⪼ ★ Designed By : @Sai_File_Store_CC
 ╰━━━━━━━━━━━━━━━➣ """
   
     ABOOK_TXT = """<b>ʜᴇʟᴩ : ᴀᴜᴅɪᴏʙᴏᴏᴋ 
